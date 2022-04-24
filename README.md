@@ -48,7 +48,7 @@ On Heroku, you'll need to set the following configuration variable:
 
 * Using the Heroku CLI:
   ```
-  heroku config:set PRODUCTION=true --app <heroku app name>
+  heroku config:set PRODUCTION=true --app <heroku app name> which is jpa
   ```
 * Or set it on the Heroku Dashboard:
   ![image](https://user-images.githubusercontent.com/1119017/149855768-7b56164a-98f7-4357-b877-da34b7bd9ea4.png)
